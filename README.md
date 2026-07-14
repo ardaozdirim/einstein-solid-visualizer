@@ -9,7 +9,7 @@ To better understand the concept, I developed this Python program that calculate
 - Calculates multiplicities using the Einstein solid model
 - User-defined numbers of oscillators and energy quanta
 - Visualizes total multiplicity as energy is exchanged
-- Written in Python using NumPy and Matplotlib
+
 
 ## Example
 ![Example Plot](plot.png)
