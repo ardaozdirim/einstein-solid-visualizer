@@ -12,5 +12,4 @@ To better understand the concept, I developed this Python program that calculate
 - Written in Python using NumPy and Matplotlib
 
 ## Example
-
-*(You can later add a screenshot of one of your plots here.)*
+![Example Plot](plot.png)
