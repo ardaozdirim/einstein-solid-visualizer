@@ -10,6 +10,8 @@ To better understand the concept, I developed this Python program that calculate
 - User-defined numbers of oscillators and energy quanta
 - Visualizes total multiplicity as energy is exchanged
 
-
+## Limitations and Possible Improvements
+1) This model can adequately handle small numbers. However, in a large system where we talk about numbers in the order of magnitude of 23 (e.g Avogadro's Constant), the model might be inaccurate. As a possible improvement, the treatment of Stirling's Approximation for large numbers cane be implemented so that the plots will be more reliable.
+2) Entropy is a key concept that is direclty related with multiplicities. Later on, I am planning to add entropy to the calculator. 
 ## Example
 ![Example Plot](plot.png)
